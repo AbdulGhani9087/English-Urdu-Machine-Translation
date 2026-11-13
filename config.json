@@ -1,0 +1,10 @@
+{
+    "MAX_ENGLISH_LENGTH": 14,
+    "MAX_URDU_LENGTH": 21,
+    "english_vocab_size": 5680,
+    "urdu_vocab_size": 5935,
+    "embedding_dim": 128,
+    "hidden_units": 256,
+    "epochs": 50,
+    "batch_size": 64
+}
